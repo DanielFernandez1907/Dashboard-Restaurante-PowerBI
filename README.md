@@ -54,9 +54,4 @@ Power BI (DAX, Power Query) y Excel.
 
 Daniel Fernández Gutiérrez – [LinkedIn](https://www.linkedin.com/in/daniel-fernández-gutiérrez-3a7b542aa)
 
-Para pegarlo: en el repositorio pulsa el lápiz del README.md, borra todo, pega este texto y pulsa Commit changes.
 
-Dos comprobaciones rápidas:
-
-La imagen del principio solo se verá si tu captura se llama 1.png y está dentro de la carpeta images.
-Si la limpieza fue distinta de lo que pongo (por ejemplo, otro paso o la relación entre tablas), edita esos 4 puntos.
