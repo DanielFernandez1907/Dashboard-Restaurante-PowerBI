@@ -4,7 +4,7 @@ Dashboard de ventas, costes y beneficio de un restaurante, desarrollado en Power
 
 ## Vista previa
 
-![Dashboard](images/1.png)
+![Dashboard](images/1.PNG)
 
 ## Objetivo
 
